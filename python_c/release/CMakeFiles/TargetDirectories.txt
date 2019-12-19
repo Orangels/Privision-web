@@ -1,0 +1,3 @@
+/home/user/Program/ffmpeg_demo/python_c/release/CMakeFiles/rebuild_cache.dir
+/home/user/Program/ffmpeg_demo/python_c/release/CMakeFiles/edit_cache.dir
+/home/user/Program/ffmpeg_demo/python_c/release/CMakeFiles/python_c.dir

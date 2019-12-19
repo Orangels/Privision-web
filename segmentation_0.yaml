@@ -1,0 +1,5 @@
+MODULES:
+  OBJDET:
+    GPU_ID: 1
+    CFG: 'cfgs/rcnn/mscoco/e2e_mask_rcnn_R-50-FPN_2x_ms.yaml'
+    

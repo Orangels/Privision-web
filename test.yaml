@@ -1,0 +1,8 @@
+MODULES:
+  OBJDET:
+    GPU_ID: 0
+    CFG: 'cfgs/rcnn/mscoco/e2e_faster_rcnn_R-50-FPN-600_0.5x.yaml'
+    #CFG_LIST: [
+    #VIS.VIS_TH, 0.7,
+    #VIS.SHOW_BOX.COLOR_SCHEME, 'instance'  # 'green', 'category' or 'instance'
+    #]
